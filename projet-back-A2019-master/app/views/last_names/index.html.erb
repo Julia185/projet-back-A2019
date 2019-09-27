@@ -1,0 +1,27 @@
+<p id="notice"><%= notice %></p>
+
+<h1>Last Names</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>Birthday</th>
+      <th colspan="3"></th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <% @last_names.each do |last_name| %>
+      <tr>
+        <td><%= last_name.birthday %></td>
+        <td><%= link_to 'Show', last_name %></td>
+        <td><%= link_to 'Edit', edit_last_name_path(last_name) %></td>
+        <td><%= link_to 'Destroy', last_name, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+
+<br>
+
+<%= link_to 'New Last Name', new_last_name_path %>
