@@ -12,16 +12,10 @@
 
 ActiveRecord::Schema.define(version: 2019_09_27_084804) do
 
-  create_table "last_names", force: :cascade do |t|
-    t.string 'birthday'
-    t.datetime "created_at", null: false
-    t.datetime "updated_at", null: false
-  end
-
   create_table "students", force: :cascade do |t|
     t.string "name"
     t.string "last_name"
-    t.string 'birthday'
+    t.string "birthday"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
   end
