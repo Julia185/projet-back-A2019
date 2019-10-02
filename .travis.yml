@@ -6,7 +6,7 @@ rvm:
 
 env:
   global:
-    - CC_TEST_REPORTER_ID=a1563b5d62f9ca6c01c2abb687011701567b079d8717c69215c53fa307bef57e 
+    - CC_TEST_REPORTER_ID=735792c4672a3d5605faa1bf4e215aa26cf317bc2c171a9f137ef4abe763c0ac
 language: ruby
 
 before_script:
