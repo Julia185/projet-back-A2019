@@ -20,3 +20,8 @@ script:
   - bundle exec rails db:migrate RAILS_ENV=test
   - bundle exec rake
   - ./cc-test-reporter after-build --exit-code $TRAVIS_TEST_RESULT
+  
+ deploy:
+  provider: heroku
+  api_key:
+    secure: 54e48b08-28a2-4cab-8984-86c08bbf2592
