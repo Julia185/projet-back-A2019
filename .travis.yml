@@ -25,3 +25,7 @@ script:
   provider: heroku
   api_key:
     secure: 54e48b08-28a2-4cab-8984-86c08bbf2592
+  app: projet-back-end
+  run:
+    - "bundle install --without development test"
+    - "bundle exec rails db:migrate"    
