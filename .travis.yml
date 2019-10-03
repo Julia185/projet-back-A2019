@@ -24,7 +24,7 @@ script:
  deploy:
   provider: heroku
   api_key:
-    secure: 54e48b08-28a2-4cab-8984-86c08bbf2592
+    secure: 7f1df0e0a87fbe9168d2f1b0aa13aceea2dd8ee225539e2a7185eb965d0e469e2694d88d
   app: projet-back-end
   run:
     - "bundle install --without development test"
