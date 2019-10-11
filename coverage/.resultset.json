@@ -1,35 +1,14 @@
 {
   "MiniTest": {
     "coverage": {
-      "D:/ROLLAND Julia/config/environment.rb": [
+      "D:/Julia ROLLAND/projet-back-A2019/config/environment.rb": [
         null,
         1,
         null,
         null,
         1
       ],
-      "D:/ROLLAND Julia/config/application.rb": [
-        1,
-        null,
-        1,
-        null,
-        null,
-        null,
-        1,
-        null,
-        1,
-        1,
-        null,
-        1,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-      ],
-      "D:/ROLLAND Julia/config/environments/test.rb": [
+      "D:/Julia ROLLAND/projet-back-A2019/config/environments/test.rb": [
         1,
         null,
         null,
@@ -78,7 +57,7 @@
         null,
         null
       ],
-      "D:/ROLLAND Julia/config/initializers/application_controller_renderer.rb": [
+      "D:/Julia ROLLAND/projet-back-A2019/config/initializers/application_controller_renderer.rb": [
         null,
         null,
         null,
@@ -88,7 +67,7 @@
         null,
         null
       ],
-      "D:/ROLLAND Julia/config/initializers/assets.rb": [
+      "D:/Julia ROLLAND/projet-back-A2019/config/initializers/assets.rb": [
         null,
         null,
         null,
@@ -104,7 +83,7 @@
         null,
         null
       ],
-      "D:/ROLLAND Julia/config/initializers/backtrace_silencers.rb": [
+      "D:/Julia ROLLAND/projet-back-A2019/config/initializers/backtrace_silencers.rb": [
         null,
         null,
         null,
@@ -113,7 +92,7 @@
         null,
         null
       ],
-      "D:/ROLLAND Julia/config/initializers/content_security_policy.rb": [
+      "D:/Julia ROLLAND/projet-back-A2019/config/initializers/content_security_policy.rb": [
         null,
         null,
         null,
@@ -140,7 +119,7 @@
         null,
         null
       ],
-      "D:/ROLLAND Julia/config/initializers/cookies_serializer.rb": [
+      "D:/Julia ROLLAND/projet-back-A2019/config/initializers/cookies_serializer.rb": [
         null,
         null,
         null,
@@ -148,13 +127,13 @@
         null,
         1
       ],
-      "D:/ROLLAND Julia/config/initializers/filter_parameter_logging.rb": [
+      "D:/Julia ROLLAND/projet-back-A2019/config/initializers/filter_parameter_logging.rb": [
         null,
         null,
         null,
         1
       ],
-      "D:/ROLLAND Julia/config/initializers/inflections.rb": [
+      "D:/Julia ROLLAND/projet-back-A2019/config/initializers/inflections.rb": [
         null,
         null,
         null,
@@ -173,13 +152,13 @@
         null,
         null
       ],
-      "D:/ROLLAND Julia/config/initializers/mime_types.rb": [
+      "D:/Julia ROLLAND/projet-back-A2019/config/initializers/mime_types.rb": [
         null,
         null,
         null,
         null
       ],
-      "D:/ROLLAND Julia/config/initializers/wrap_parameters.rb": [
+      "D:/Julia ROLLAND/projet-back-A2019/config/initializers/wrap_parameters.rb": [
         null,
         null,
         null,
@@ -187,141 +166,22 @@
         null,
         null,
         1,
-        2,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-      ],
-      "D:/ROLLAND Julia/config/routes.rb": [
-        1,
-        null,
-        1,
-        null,
-        null
-      ],
-      "D:/ROLLAND Julia/test/models/student_test.rb": [
-        1,
-        null,
-        1,
-        1,
-        null,
-        1,
-        null,
-        1,
-        null,
-        1,
-        null,
-        1,
-        0,
-        0,
-        null,
-        null
-      ],
-      "D:/ROLLAND Julia/app/models/student.rb": [
-        null,
-        1,
-        1,
-        null
-      ],
-      "D:/ROLLAND Julia/app/models/application_record.rb": [
-        1,
-        1,
-        null,
-        null
-      ],
-      "D:/ROLLAND Julia/app/controllers/students_controller.rb": [
-        1,
-        1,
-        null,
-        null,
-        null,
-        1,
-        1,
-        null,
-        null,
-        null,
-        null,
-        1,
-        null,
-        null,
-        null,
-        1,
-        1,
-        null,
-        null,
-        null,
-        1,
-        null,
-        null,
-        null,
-        null,
-        1,
-        1,
-        null,
-        1,
-        1,
-        2,
-        1,
-        null,
-        0,
         0,
         null,
         null,
         null,
         null,
         null,
-        null,
-        1,
-        1,
-        1,
-        2,
-        1,
-        null,
-        0,
-        0,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        1,
-        1,
-        1,
-        2,
-        1,
-        null,
-        null,
-        null,
-        1,
-        null,
-        1,
-        4,
-        null,
-        null,
-        null,
-        1,
-        2,
-        null,
         null
       ],
-      "D:/ROLLAND Julia/app/controllers/application_controller.rb": [
-        1,
-        null
-      ],
-      "D:/ROLLAND Julia/app/helpers/application_helper.rb": [
+      "D:/Julia ROLLAND/projet-back-A2019/config/routes.rb": [
         1,
         null,
-        null
-      ],
-      "D:/ROLLAND Julia/app/helpers/students_helper.rb": [
         1,
+        null,
         null
       ]
     },
-    "timestamp": 1569593123
+    "timestamp": 1570785481
   }
 }

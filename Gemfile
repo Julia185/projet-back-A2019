@@ -35,7 +35,7 @@ gem 'jbuilder', '~> 2.5'
 # Reduces boot times through caching; required in config/boot.rb
 gem 'bootsnap', '1.4.1'
 
-gem 'pg', '0.18.4'
+gem 'pg', '0.21.0'
 gem 'rubyzip', '1.3.0'
 
 group :development, :test do
