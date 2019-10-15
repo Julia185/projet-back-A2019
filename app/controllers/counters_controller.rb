@@ -41,7 +41,7 @@ class CountersController < ApplicationController
   # PATCH/PUT /counters/1.json
   def update
   respond_to do |format|
-    @counter.increment! (@counter)
+    @counter.increment!
     if @counter.save()
       format.html { redirect_to @counter, notice: 'Counter was successfully updated.' }
       format.json { render :show, status: :ok, location: @counter }
