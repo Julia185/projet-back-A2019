@@ -1,7 +1,7 @@
 require 'test_helper'
 
 class CounterTest < ActiveSupport::TestCase
-  test "should increment the counter value" do
+  test "should increment counter value" do
     counter = Counter.new
     counter.value = 0
 
