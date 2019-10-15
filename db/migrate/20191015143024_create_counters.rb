@@ -4,7 +4,6 @@ class CreateCounters < ActiveRecord::Migration[5.2]
       t.string :name
       t.integer :value
 
-
       t.timestamps
     end
   end
